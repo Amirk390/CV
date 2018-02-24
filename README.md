@@ -9,7 +9,15 @@
 #### 2017-2018:
 
 **Web Design and Development,** Nazareth - **Founders and Coders**
-St**udied 4 months in the Founders and Coders a** non profit organization. As a part of my studies i studied programming languages such as **_JavaScript, HTML, CSS, pSql._**
+Studied 4 months in the Founders and Coders a non profit organization. As a part of my studies i studied programming languages such as **_JavaScript, HTML, CSS, pSql._**
+
+##### Couple the projects i worked on:
+
++ [Water you talking about app](https://github.com/FACN3/Water-you-talking-about)
+
++ [Al Forum (Forum Page Practice)](https://github.com/FACN3/al-forum)
+
++ [Mashrou Leila (Web-Media Search Engine)](https://github.com/FACN3/mashrou-leila)
 
 #### 2010-2014:
 
