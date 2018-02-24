@@ -6,7 +6,7 @@
 
 ## EDUCATION
 
-#### Aug 2017-Mar 2018:
+#### Aug 2017 - Mar 2018:
 
 **Web Design and Development,** Nazareth - **Founders and Coders**
 Studied 4 months in the Founders and Coders a non profit organization. As a part of my studies i studied programming languages such as **_JavaScript, HTML, CSS, pSql._**
@@ -21,7 +21,7 @@ Studied 4 months in the Founders and Coders a non profit organization. As a part
 
 + [Healthy Mind CSS (Forum posts CSS Pcactce)](https://github.com/Amirk390/HeathyMindsCSS)
 
-#### 2010-2014:
+#### 2010 - 2014:
 
 **Photography and Graphic Design** Haifa - **Tiltan College** Studied 4 years in Tiltan College in Haifa and studied both Photography and Graphic Designing.
 
@@ -40,7 +40,7 @@ https://www.facebook.com/amirkdesign
 
 ## WORK EXPERIENCE
 
-#### 2012-2016:
+#### 2012 - 2016:
 
 **HOT,** Nazareth Elite - **Telecom company.**
 
@@ -50,7 +50,7 @@ https://www.facebook.com/amirkdesign
 
 * Finance Officer - Handle the finance problems for customers at HOT company
 
-#### 2015-2017:
+#### 2015 - 2017:
 
 **Cellcom,** Matam Haifa - **Telecom company.**
 
