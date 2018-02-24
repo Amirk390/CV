@@ -6,7 +6,7 @@
 
 ## EDUCATION
 
-#### 2017-2018:
+#### Aug 2017-Mar 2018:
 
 **Web Design and Development,** Nazareth - **Founders and Coders**
 Studied 4 months in the Founders and Coders a non profit organization. As a part of my studies i studied programming languages such as **_JavaScript, HTML, CSS, pSql._**
