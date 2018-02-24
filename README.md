@@ -1,10 +1,6 @@
 # Amir Khoury
 
-**amirkhourykh@gmail.com**
 
-**052-4466219**
-
-**_[Linkding](https://www.linkedin.com/in/amirkhourykh)_**
 
 ---
 
@@ -60,3 +56,11 @@ High-level in computer & software knowledge, including technical support, solvin
 ---
 
 LANGUAGES : **_Hebrew_**, Native language. **_English_**, fluently. **_Arabic_**, fluently.
+
+---
+
+**amirkhourykh@gmail.com**
+
+**052-4466219**
+
+**_[Linkding](https://www.linkedin.com/in/amirkhourykh)_**
