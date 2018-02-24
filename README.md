@@ -1,9 +1,5 @@
 # Amir Khoury
 
-
-
----
-
 ## EDUCATION
 
 Aug **2017** - Mar **2018:**
